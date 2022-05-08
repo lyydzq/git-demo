@@ -21,3 +21,14 @@ hello atguigi! hello git!4261378461856432
 hello atguigi! hello git!hot-fixtext
 
 32158910000000000000000000000000000000000000
+
+
+int main(){
+int a,b;
+a=10;
+b=20;
+cout<<a+b<<endl;
+systenm("pause");
+return 0;
+
+}
